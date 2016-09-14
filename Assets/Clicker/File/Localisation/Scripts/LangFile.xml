@@ -1,31 +1,31 @@
 <Data>
 	<EN Key = "Start"	Word = "Start" />
-  <EN Key = "Setting"	Word = "Setting" />
-  <EN Key = "About"	Word = "About" />
-  <EN Key = "Exit"	Word = "Exit" />
-  <EN Key = "Music"	Word = "Music" />
-  <EN Key = "Sound"	Word = "Sound" />
-  <EN Key = "Language"	Word = "Language" />
-  <EN Key = "Skill"	Word = "Skill" />
-  <EN Key = "Damage"	Word = "Damage" />
-  <EN Key = "Critical Chanse"	Word = "Critical Chanse" />
-  <EN Key = "Speed"	Word = "Speed" />
-  <EN Key = "Weapon"	Word = "Weapon" />
-  <EN Key = "You died!"	Word = "You died!" />
-  <EN Key = "Press Space to return Maim menue"	Word = "Press Space to return Maim menue" />
+	<EN Key = "Setting"	Word = "Setting" />
+	<EN Key = "About"	Word = "About" />
+	<EN Key = "Exit"	Word = "Exit" />
+	<EN Key = "Music"	Word = "Music" />
+	<EN Key = "Sound"	Word = "Sound" />
+	<EN Key = "Language"	Word = "Language" />
+	<EN Key = "Skill"	Word = "Skill" />
+	<EN Key = "Damage"	Word = "Damage" />
+	<EN Key = "Critical Chanse"	Word = "Critical Chanse" />
+	<EN Key = "Speed"	Word = "Speed" />
+	<EN Key = "Weapon"	Word = "Weapon" />
+	<EN Key = "You died!"	Word = "You died!" />
+	<EN Key = "Press Space to return Maim menue"	Word = "Press Space to return Maim menue" />
 
-  <RU Key = "Start"	Word = "Старт" />
-  <RU Key = "Setting"	Word = "Настройки" />
-  <RU Key = "About"	Word = "Подробнее" />
-  <RU Key = "Exit"	Word = "Выход" />
-  <RU Key = "Music"	Word = "Музыка" />
-  <RU Key = "Sound"	Word = "Звуки" />
-  <RU Key = "Language"	Word = "Язык приложения" />
-  <RU Key = "Skill"	Word = "Способности" />
-  <RU Key = "Damage"	Word = "Урон" />
-  <RU Key = "Critical Chanse"	Word = "Шанс критического урона" />
-  <RU Key = "Speed"	Word = "Скорострельность" />
-  <RU Key = "Weapon"	Word = "Вооружение" />
-  <RU Key = "You died!"	Word = "Вы мертвы!" />
-  <RU Key = "Press Space to return Maim menue"	Word = "Нажмите пробел для возвращения вглавное меню" />
+	<RU Key = "Start"	Word = "Старт" />
+	<RU Key = "Setting"	Word = "Настройки" />
+	<RU Key = "About"	Word = "Подробнее" />
+	<RU Key = "Exit"	Word = "Выход" />
+	<RU Key = "Music"	Word = "Музыка" />
+	<RU Key = "Sound"	Word = "Звуки" />
+	<RU Key = "Language"	Word = "Язык приложения" />
+	<RU Key = "Skill"	Word = "Способности" />
+	<RU Key = "Damage"	Word = "Урон" />
+	<RU Key = "Critical Chanse"	Word = "Шанс критического урона" />
+	<RU Key = "Speed"	Word = "Скорострельность" />
+	<RU Key = "Weapon"	Word = "Вооружение" />
+	<RU Key = "You died!"	Word = "Вы мертвы!" />
+	<RU Key = "Press Space to return Maim menue"	Word = "Нажмите пробел для возвращения вглавное меню" />
 </Data>
